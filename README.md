@@ -1,11 +1,15 @@
 # Greenhouse_Gas_Emission
 
 About Dataset
-Green house is a very big problem in the world. It's increasing the temperature of the world. These happen because of different types of gas release by different industries in the world. This dataset contain data of different industry and types of gas release by those industry in different region in the earth. This dataset also contain some ISO test to measure the effect.
+
+Greenhouse gases are a significant global problem, contributing to rising global temperatures. These gases are emitted by various industries worldwide. This dataset contains information about different industries, the types of greenhouse gases they release, and their emissions in various regions of the Earth. Additionally, the dataset includes ISO test data to measure the environmental impact of these emissions.
 
 
 Data Acknowledgements
-Dataset Name: 
-Kaggle Link: A direct link to the dataset's page on Kaggle.
-Creator's Name or Organization: The name of the individual or organization that created the dataset.
-License: Mention the license under which the dataset is distributed (e.g., Creative Commons, Public Domain).
+
+Dataset Name: Annual Greenhouse Gas(GHG) Air Emissions Accounts.csv
+
+Kaggle Link: https://www.kaggle.com/datasets/rafsunahmad/green-house-gas-produce-by-different-industry/data?select=Annual+Greenhouse+Gas+%28GHG%29+Air+Emissions+Accounts.csv
+
+Creator's Name or Organization: Rafsun Ahmed
+
